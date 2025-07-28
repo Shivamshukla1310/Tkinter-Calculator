@@ -91,14 +91,4 @@ Made with ❤️ by **Shivam Shukla**
 
 If you found this project helpful, please consider giving it a ⭐ on GitHub to support this project.
 
-```
 
----
-
-✅ You can copy and paste this directly into your `README.md` file. Make sure:
-- The image paths like `/assets/main.png` are correct relative to your repo.
-- You update the GitHub repo link in the `git clone` command.
-- `.exe` link is accessible for public.
-
-Let me know if you want to add badges, installation steps via pip, or dark-mode preview too!
-```
