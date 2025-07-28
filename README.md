@@ -38,4 +38,16 @@ Run the calculator:
 python calculator.py
 ✅ The GUI window should now launch with the calculator interface.
 
-📸 Screenshot
+---
+
+## 📸 Screenshot
+| Main Window       | Input Example       | Output Display        |
+| ----------------- | ------------------- | --------------------- |
+| ![main](/assets/main.png) | ![input](/assets/input.png) | ![output](/assets/output.png) |
+
+---
+## 📦 Download Executable (.exe)
+
+If you don’t have Python installed, you can directly run the calculator using the .exe file.
+
+👉 [Calculator App Link](https://drive.google.com/file/d/1emt9qMa4DadL4mHwu7xCRPA6zZALQj08/view?usp=sharing)
